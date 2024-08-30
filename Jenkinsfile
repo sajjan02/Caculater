@@ -11,6 +11,20 @@ pipeline {
                 checkout scm
             }
         }
+        stage('Check NuGet Sources') {
+            steps {
+                script {
+                    bat 'dotnet nuget list source'
+                }
+            }
+        }
+        stage('Configure NuGet Source') {
+            steps {
+                script {
+                    bat 'dotnet nuget add source https://api.nuget.org/v3/index.json -n nuget.org'
+                }
+            }
+        }
         stage('Restore') {
             steps {
                 script {
@@ -46,5 +60,6 @@ pipeline {
         }
     }
 }
+
 
  
