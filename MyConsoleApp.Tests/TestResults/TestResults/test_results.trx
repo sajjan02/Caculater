@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TestRun id="adb45a27-9419-46c0-982c-cf60caf0a0c0" name="KFayazUddin@CL-80MWKN3 2024-08-30 13:00:35" runUser="AzureAD\KFayazUddin" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <Times creation="2024-08-30T13:00:35.3174303+05:30" queuing="2024-08-30T13:00:35.3174306+05:30" start="2024-08-30T13:00:34.5660707+05:30" finish="2024-08-30T13:00:35.3238858+05:30" />
+  <TestSettings name="default" id="123c3ab9-0e71-4487-9e35-89d12c2dd89a">
+    <Deployment runDeploymentRoot="KFayazUddin_CL-80MWKN3_2024-08-30_13_00_35" />
+  </TestSettings>
+  <Results>
+    <UnitTestResult executionId="46b697e3-fa38-4f33-a84b-6e7f5c060382" testId="96199696-91b9-d207-6b17-2b6287bd86f3" testName="Multiply_WhenCalled_ReturnsProduct" computerName="CL-80MWKN3" duration="00:00:00.0001320" startTime="2024-08-30T13:00:35.1750905+05:30" endTime="2024-08-30T13:00:35.1752223+05:30" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="46b697e3-fa38-4f33-a84b-6e7f5c060382" />
+    <UnitTestResult executionId="b221878f-7812-43e1-bfb6-5f015f088bf9" testId="d9b9ae48-2d5a-afec-9fc2-4364704ffff2" testName="Subtract_WhenCalled_ReturnsDifference" computerName="CL-80MWKN3" duration="00:00:00.0001800" startTime="2024-08-30T13:00:35.1784419+05:30" endTime="2024-08-30T13:00:35.1786213+05:30" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="b221878f-7812-43e1-bfb6-5f015f088bf9" />
+    <UnitTestResult executionId="e48fab97-c160-4ccb-98df-7341d9489fb3" testId="a7c34059-7d7d-b86e-6a84-aeccdea32cc0" testName="Add_WhenCalled_ReturnsSum" computerName="CL-80MWKN3" duration="00:00:00.0090560" startTime="2024-08-30T13:00:35.1636101+05:30" endTime="2024-08-30T13:00:35.1726179+05:30" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="e48fab97-c160-4ccb-98df-7341d9489fb3" />
+    <UnitTestResult executionId="815a6d25-076b-448c-ba36-9c27706453dc" testId="7c2498f6-b245-e325-1f29-a3be448447b6" testName="PerformOperation_WithInvalidOperation_ThrowsException" computerName="CL-80MWKN3" duration="00:00:00.0031930" startTime="2024-08-30T13:00:35.1752338+05:30" endTime="2024-08-30T13:00:35.1784263+05:30" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="815a6d25-076b-448c-ba36-9c27706453dc" />
+    <UnitTestResult executionId="54d095c6-dc04-47fe-8cc2-bd9bdfa54c85" testId="467568c8-b2ff-5f46-ce1d-32ab5aa76d00" testName="Divide_WhenCalled_ReturnsQuotient" computerName="CL-80MWKN3" duration="00:00:00.0003669" startTime="2024-08-30T13:00:35.1747027+05:30" endTime="2024-08-30T13:00:35.1750699+05:30" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="54d095c6-dc04-47fe-8cc2-bd9bdfa54c85" />
+  </Results>
+  <TestDefinitions>
+    <UnitTest name="Divide_WhenCalled_ReturnsQuotient" storage="c:\users\kfayazuddin\mylearnings\myconsoleappsol\myconsoleapp.tests\bin\debug\net8.0\myconsoleapp.tests.dll" id="467568c8-b2ff-5f46-ce1d-32ab5aa76d00">
+      <Execution id="54d095c6-dc04-47fe-8cc2-bd9bdfa54c85" />
+      <TestMethod codeBase="C:\Users\KFayazUddin\MyLearnings\MyConsoleAppSol\MyConsoleApp.Tests\bin\Debug\net8.0\MyConsoleApp.Tests.dll" adapterTypeName="executor://nunit3testexecutor/" className="MyConsoleApp.Tests.CalculatorTests" name="Divide_WhenCalled_ReturnsQuotient" />
+    </UnitTest>
+    <UnitTest name="Multiply_WhenCalled_ReturnsProduct" storage="c:\users\kfayazuddin\mylearnings\myconsoleappsol\myconsoleapp.tests\bin\debug\net8.0\myconsoleapp.tests.dll" id="96199696-91b9-d207-6b17-2b6287bd86f3">
+      <Execution id="46b697e3-fa38-4f33-a84b-6e7f5c060382" />
+      <TestMethod codeBase="C:\Users\KFayazUddin\MyLearnings\MyConsoleAppSol\MyConsoleApp.Tests\bin\Debug\net8.0\MyConsoleApp.Tests.dll" adapterTypeName="executor://nunit3testexecutor/" className="MyConsoleApp.Tests.CalculatorTests" name="Multiply_WhenCalled_ReturnsProduct" />
+    </UnitTest>
+    <UnitTest name="Add_WhenCalled_ReturnsSum" storage="c:\users\kfayazuddin\mylearnings\myconsoleappsol\myconsoleapp.tests\bin\debug\net8.0\myconsoleapp.tests.dll" id="a7c34059-7d7d-b86e-6a84-aeccdea32cc0">
+      <Execution id="e48fab97-c160-4ccb-98df-7341d9489fb3" />
+      <TestMethod codeBase="C:\Users\KFayazUddin\MyLearnings\MyConsoleAppSol\MyConsoleApp.Tests\bin\Debug\net8.0\MyConsoleApp.Tests.dll" adapterTypeName="executor://nunit3testexecutor/" className="MyConsoleApp.Tests.CalculatorTests" name="Add_WhenCalled_ReturnsSum" />
+    </UnitTest>
+    <UnitTest name="PerformOperation_WithInvalidOperation_ThrowsException" storage="c:\users\kfayazuddin\mylearnings\myconsoleappsol\myconsoleapp.tests\bin\debug\net8.0\myconsoleapp.tests.dll" id="7c2498f6-b245-e325-1f29-a3be448447b6">
+      <Execution id="815a6d25-076b-448c-ba36-9c27706453dc" />
+      <TestMethod codeBase="C:\Users\KFayazUddin\MyLearnings\MyConsoleAppSol\MyConsoleApp.Tests\bin\Debug\net8.0\MyConsoleApp.Tests.dll" adapterTypeName="executor://nunit3testexecutor/" className="MyConsoleApp.Tests.CalculatorTests" name="PerformOperation_WithInvalidOperation_ThrowsException" />
+    </UnitTest>
+    <UnitTest name="Subtract_WhenCalled_ReturnsDifference" storage="c:\users\kfayazuddin\mylearnings\myconsoleappsol\myconsoleapp.tests\bin\debug\net8.0\myconsoleapp.tests.dll" id="d9b9ae48-2d5a-afec-9fc2-4364704ffff2">
+      <Execution id="b221878f-7812-43e1-bfb6-5f015f088bf9" />
+      <TestMethod codeBase="C:\Users\KFayazUddin\MyLearnings\MyConsoleAppSol\MyConsoleApp.Tests\bin\Debug\net8.0\MyConsoleApp.Tests.dll" adapterTypeName="executor://nunit3testexecutor/" className="MyConsoleApp.Tests.CalculatorTests" name="Subtract_WhenCalled_ReturnsDifference" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestEntries>
+    <TestEntry testId="96199696-91b9-d207-6b17-2b6287bd86f3" executionId="46b697e3-fa38-4f33-a84b-6e7f5c060382" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="d9b9ae48-2d5a-afec-9fc2-4364704ffff2" executionId="b221878f-7812-43e1-bfb6-5f015f088bf9" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="a7c34059-7d7d-b86e-6a84-aeccdea32cc0" executionId="e48fab97-c160-4ccb-98df-7341d9489fb3" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="7c2498f6-b245-e325-1f29-a3be448447b6" executionId="815a6d25-076b-448c-ba36-9c27706453dc" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="467568c8-b2ff-5f46-ce1d-32ab5aa76d00" executionId="54d095c6-dc04-47fe-8cc2-bd9bdfa54c85" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <ResultSummary outcome="Completed">
+    <Counters total="5" executed="5" passed="5" failed="0" error="0" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" completed="0" inProgress="0" pending="0" />
+    <Output>
+      <StdOut>NUnit Adapter 4.6.0.0: Test execution started&#xD;
+Running all tests in C:\Users\KFayazUddin\MyLearnings\MyConsoleAppSol\MyConsoleApp.Tests\bin\Debug\net8.0\MyConsoleApp.Tests.dll&#xD;
+   NUnit3TestExecutor discovered 5 of 5 NUnit test cases using Current Discovery mode, Non-Explicit run&#xD;
+NUnit Adapter 4.6.0.0: Test execution complete&#xD;
+</StdOut>
+    </Output>
+  </ResultSummary>
+</TestRun>

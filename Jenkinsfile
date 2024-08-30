@@ -47,7 +47,7 @@ pipeline {
         stage('Test') {
             steps {
                 script {
-                    bat 'dotnet test MyConsoleApp.Tests/MyConsoleApp.Tests.csproj --logger "trx;LogFileName=test_results.trx"'
+                    bat 'dotnet test MyConsoleApp.Tests/MyConsoleApp.Tests.csproj --logger "trx;LogFileName=TestResults/test_results.trx"'
                 }
             }
         }
@@ -68,10 +68,11 @@ pipeline {
 
     post {
         always {
-            junit 'MyConsoleApp.Tests/TestResults/test_results.trx'  // Ensure this path is correct
+            junit '**/TestResults/test_results.trx'  // Ensure this path matches the actual file location
         }
     }
 }
+
 
 
 
