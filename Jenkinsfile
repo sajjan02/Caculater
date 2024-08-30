@@ -68,10 +68,11 @@ pipeline {
 
     post {
         always {
-            junit '**/TestResults/test_results.trx'  // Ensure this path matches the actual file location
+            junit 'MyConsoleApp.Tests/TestResults/test_results.trx'
         }
     }
 }
+
 
 
 
