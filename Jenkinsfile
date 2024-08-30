@@ -51,6 +51,13 @@ pipeline {
                 }
             }
         }
+        stage('List Test Results') {
+            steps {
+                script {
+                    bat 'dir MyConsoleApp.Tests/TestResults'
+                }
+            }
+        }
         stage('Deploy') {
             steps {
                 echo 'Deploying application...'
@@ -61,7 +68,7 @@ pipeline {
 
     post {
         always {
-            junit '**/TestResults/test_results.trx'  // Ensure this path is correct
+            junit 'MyConsoleApp.Tests/TestResults/test_results.trx'  // Ensure this path is correct
         }
     }
 }
