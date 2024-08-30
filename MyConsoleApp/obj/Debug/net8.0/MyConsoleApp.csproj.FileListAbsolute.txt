@@ -12,3 +12,4 @@ C:\Users\KFayazUddin\MyLearnings\MyConsoleAppSol\MyConsoleApp\obj\Debug\net8.0\r
 C:\Users\KFayazUddin\MyLearnings\MyConsoleAppSol\MyConsoleApp\obj\Debug\net8.0\MyConsoleApp.pdb
 C:\Users\KFayazUddin\MyLearnings\MyConsoleAppSol\MyConsoleApp\obj\Debug\net8.0\MyConsoleApp.genruntimeconfig.cache
 C:\Users\KFayazUddin\MyLearnings\MyConsoleAppSol\MyConsoleApp\obj\Debug\net8.0\ref\MyConsoleApp.dll
+C:\Users\KFayazUddin\MyLearnings\MyConsoleAppSol\MyConsoleApp\obj\Debug\net8.0\MyConsoleApp.sourcelink.json

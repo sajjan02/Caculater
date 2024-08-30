@@ -104,3 +104,4 @@ C:\Users\KFayazUddin\MyLearnings\MyConsoleAppSol\MyConsoleApp.Tests\obj\Debug\ne
 C:\Users\KFayazUddin\MyLearnings\MyConsoleAppSol\MyConsoleApp.Tests\obj\Debug\net8.0\ref\MyConsoleApp.Tests.dll
 C:\Users\KFayazUddin\MyLearnings\MyConsoleAppSol\MyConsoleApp.Tests\bin\Debug\net8.0\.msCoverageSourceRootsMapping_MyConsoleApp.Tests
 C:\Users\KFayazUddin\MyLearnings\MyConsoleAppSol\MyConsoleApp.Tests\bin\Debug\net8.0\nunit.framework.legacy.dll
+C:\Users\KFayazUddin\MyLearnings\MyConsoleAppSol\MyConsoleApp.Tests\obj\Debug\net8.0\MyConsoleApp.Tests.sourcelink.json
