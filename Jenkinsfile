@@ -54,7 +54,7 @@ pipeline {
         stage('List Test Results') {
             steps {
                 script {
-                    bat 'dir MyConsoleApp.Tests/TestResults'
+                    bat 'dir "MyConsoleApp.Tests\\TestResults"'
                 }
             }
         }
@@ -72,6 +72,7 @@ pipeline {
         }
     }
 }
+
 
 
 
