@@ -11,6 +11,13 @@ pipeline {
                 checkout scm
             }
         }
+        stage('Restore') {
+            steps {
+                script {
+                    bat 'dotnet restore MyConsoleApp/MyConsoleApp.csproj'
+                }
+            }
+        }
         stage('Build') {
             steps {
                 script {
