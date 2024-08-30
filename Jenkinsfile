@@ -21,7 +21,12 @@ pipeline {
         stage('Configure NuGet Source') {
             steps {
                 script {
-                    bat 'dotnet nuget add source https://api.nuget.org/v3/index.json -n nuget.org'
+                    def output = bat(script: 'dotnet nuget list source', returnStdout: true).trim()
+                    if (!output.contains('https://api.nuget.org/v3/index.json')) {
+                        bat 'dotnet nuget add source https://api.nuget.org/v3/index.json -n nuget.org'
+                    } else {
+                        echo 'NuGet source already exists.'
+                    }
                 }
             }
         }
@@ -60,6 +65,7 @@ pipeline {
         }
     }
 }
+
 
 
 
