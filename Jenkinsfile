@@ -2,7 +2,7 @@ pipeline {
     agent any
 
     tools {
-        dotnetsdk 'dotnet-sdk'
+        dotnetsdk 'dotnet-sdk'  // Use the name you gave the .NET SDK in Global Tool Configuration
     }
 
     stages {
@@ -46,13 +46,6 @@ pipeline {
                 }
             }
         }
-        stage('List Test Results') {
-            steps {
-                script {
-                    bat 'dir MyConsoleApp.Tests/TestResults'
-                }
-            }
-        }
         stage('Deploy') {
             steps {
                 echo 'Deploying application...'
@@ -63,10 +56,11 @@ pipeline {
 
     post {
         always {
-            junit '**/MyConsoleApp.Tests/TestResults/test_results.trx'
+            junit '**/TestResults/test_results.trx'  // Ensure this path is correct
         }
     }
 }
+
 
 
 
