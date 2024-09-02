@@ -1,10 +1,18 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\KFayazUddin\\MyLearnings\\MyConsoleAppSol\\",
+  "WorkspaceRootPath": "C:\\Users\\PrathikSajjanKS\\Desktop\\training\\weeks\\week8\\MyConsoleAppSol\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{BC0A5CB6-25BA-4822-B6DC-FD7D9493C9F7}|MyConsoleApp\\MyConsoleApp.csproj|c:\\users\\kfayazuddin\\mylearnings\\myconsoleappsol\\myconsoleapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{BC0A5CB6-25BA-4822-B6DC-FD7D9493C9F7}|MyConsoleApp\\MyConsoleApp.csproj|c:\\users\\prathiksajjanks\\desktop\\training\\weeks\\week8\\myconsoleappsol\\myconsoleapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BC0A5CB6-25BA-4822-B6DC-FD7D9493C9F7}|MyConsoleApp\\MyConsoleApp.csproj|solutionrelative:myconsoleapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB268587-64CA-404D-A3C4-EEBE4FD0A67C}|MyConsoleApp.Tests\\MyConsoleApp.Tests.csproj|c:\\users\\prathiksajjanks\\desktop\\training\\weeks\\week8\\myconsoleappsol\\myconsoleapp.tests\\calculatortests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB268587-64CA-404D-A3C4-EEBE4FD0A67C}|MyConsoleApp.Tests\\MyConsoleApp.Tests.csproj|solutionrelative:myconsoleapp.tests\\calculatortests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC0A5CB6-25BA-4822-B6DC-FD7D9493C9F7}|MyConsoleApp\\MyConsoleApp.csproj|c:\\users\\prathiksajjanks\\desktop\\training\\weeks\\week8\\myconsoleappsol\\myconsoleapp\\myconsoleapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{BC0A5CB6-25BA-4822-B6DC-FD7D9493C9F7}|MyConsoleApp\\MyConsoleApp.csproj|solutionrelative:myconsoleapp\\myconsoleapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -20,13 +28,39 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\KFayazUddin\\MyLearnings\\MyConsoleAppSol\\MyConsoleApp\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\PrathikSajjanKS\\Desktop\\training\\weeks\\week8\\MyConsoleAppSol\\MyConsoleApp\\Program.cs",
               "RelativeDocumentMoniker": "MyConsoleApp\\Program.cs",
-              "ToolTip": "C:\\Users\\KFayazUddin\\MyLearnings\\MyConsoleAppSol\\MyConsoleApp\\Program.cs",
+              "ToolTip": "C:\\Users\\PrathikSajjanKS\\Desktop\\training\\weeks\\week8\\MyConsoleAppSol\\MyConsoleApp\\Program.cs",
               "RelativeToolTip": "MyConsoleApp\\Program.cs",
-              "ViewState": "AQIAABoAAAAAAAAAAAAUwCUAAAAJAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-30T05:31:26.361Z",
+              "WhenOpened": "2024-09-02T04:27:14.91Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CalculatorTests.cs",
+              "DocumentMoniker": "C:\\Users\\PrathikSajjanKS\\Desktop\\training\\weeks\\week8\\MyConsoleAppSol\\MyConsoleApp.Tests\\CalculatorTests.cs",
+              "RelativeDocumentMoniker": "MyConsoleApp.Tests\\CalculatorTests.cs",
+              "ToolTip": "C:\\Users\\PrathikSajjanKS\\Desktop\\training\\weeks\\week8\\MyConsoleAppSol\\MyConsoleApp.Tests\\CalculatorTests.cs",
+              "RelativeToolTip": "MyConsoleApp.Tests\\CalculatorTests.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T04:27:10.198Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MyConsoleApp",
+              "DocumentMoniker": "C:\\Users\\PrathikSajjanKS\\Desktop\\training\\weeks\\week8\\MyConsoleAppSol\\MyConsoleApp\\MyConsoleApp.csproj",
+              "RelativeDocumentMoniker": "MyConsoleApp\\MyConsoleApp.csproj",
+              "ToolTip": "C:\\Users\\PrathikSajjanKS\\Desktop\\training\\weeks\\week8\\MyConsoleAppSol\\MyConsoleApp\\MyConsoleApp.csproj",
+              "RelativeToolTip": "MyConsoleApp\\MyConsoleApp.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-02T04:26:56.789Z",
               "EditorCaption": ""
             }
           ]

@@ -1,19 +1,19 @@
 {
   "version": 2,
-  "dgSpecHash": "TBu0s1Yur1g=",
+  "dgSpecHash": "rzyP02lGw1w=",
   "success": true,
-  "projectFilePath": "C:\\Users\\KFayazUddin\\MyLearnings\\MyConsoleAppSol\\MyConsoleApp.Tests\\MyConsoleApp.Tests.csproj",
+  "projectFilePath": "C:\\Users\\PrathikSajjanKS\\Desktop\\training\\weeks\\week8\\MyConsoleAppSol\\MyConsoleApp.Tests\\MyConsoleApp.Tests.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\KFayazUddin\\.nuget\\packages\\coverlet.collector\\6.0.0\\coverlet.collector.6.0.0.nupkg.sha512",
-    "C:\\Users\\KFayazUddin\\.nuget\\packages\\microsoft.codecoverage\\17.11.0\\microsoft.codecoverage.17.11.0.nupkg.sha512",
-    "C:\\Users\\KFayazUddin\\.nuget\\packages\\microsoft.net.test.sdk\\17.11.0\\microsoft.net.test.sdk.17.11.0.nupkg.sha512",
-    "C:\\Users\\KFayazUddin\\.nuget\\packages\\microsoft.testplatform.objectmodel\\17.11.0\\microsoft.testplatform.objectmodel.17.11.0.nupkg.sha512",
-    "C:\\Users\\KFayazUddin\\.nuget\\packages\\microsoft.testplatform.testhost\\17.11.0\\microsoft.testplatform.testhost.17.11.0.nupkg.sha512",
-    "C:\\Users\\KFayazUddin\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
-    "C:\\Users\\KFayazUddin\\.nuget\\packages\\nunit\\4.2.1\\nunit.4.2.1.nupkg.sha512",
-    "C:\\Users\\KFayazUddin\\.nuget\\packages\\nunit.analyzers\\4.3.0\\nunit.analyzers.4.3.0.nupkg.sha512",
-    "C:\\Users\\KFayazUddin\\.nuget\\packages\\nunit3testadapter\\4.6.0\\nunit3testadapter.4.6.0.nupkg.sha512",
-    "C:\\Users\\KFayazUddin\\.nuget\\packages\\system.reflection.metadata\\1.6.0\\system.reflection.metadata.1.6.0.nupkg.sha512"
+    "C:\\Users\\PrathikSajjanKS\\.nuget\\packages\\coverlet.collector\\6.0.0\\coverlet.collector.6.0.0.nupkg.sha512",
+    "C:\\Users\\PrathikSajjanKS\\.nuget\\packages\\microsoft.codecoverage\\17.11.0\\microsoft.codecoverage.17.11.0.nupkg.sha512",
+    "C:\\Users\\PrathikSajjanKS\\.nuget\\packages\\microsoft.net.test.sdk\\17.11.0\\microsoft.net.test.sdk.17.11.0.nupkg.sha512",
+    "C:\\Users\\PrathikSajjanKS\\.nuget\\packages\\microsoft.testplatform.objectmodel\\17.11.0\\microsoft.testplatform.objectmodel.17.11.0.nupkg.sha512",
+    "C:\\Users\\PrathikSajjanKS\\.nuget\\packages\\microsoft.testplatform.testhost\\17.11.0\\microsoft.testplatform.testhost.17.11.0.nupkg.sha512",
+    "C:\\Users\\PrathikSajjanKS\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\PrathikSajjanKS\\.nuget\\packages\\nunit\\4.2.1\\nunit.4.2.1.nupkg.sha512",
+    "C:\\Users\\PrathikSajjanKS\\.nuget\\packages\\nunit.analyzers\\4.3.0\\nunit.analyzers.4.3.0.nupkg.sha512",
+    "C:\\Users\\PrathikSajjanKS\\.nuget\\packages\\nunit3testadapter\\4.6.0\\nunit3testadapter.4.6.0.nupkg.sha512",
+    "C:\\Users\\PrathikSajjanKS\\.nuget\\packages\\system.reflection.metadata\\1.6.0\\system.reflection.metadata.1.6.0.nupkg.sha512"
   ],
   "logs": []
 }

@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\KFayazUddin\\MyLearnings\\MyConsoleAppSol\\MyConsoleApp\\MyConsoleApp.csproj": {}
+    "C:\\Users\\PrathikSajjanKS\\Desktop\\training\\weeks\\week8\\MyConsoleAppSol\\MyConsoleApp\\MyConsoleApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\KFayazUddin\\MyLearnings\\MyConsoleAppSol\\MyConsoleApp\\MyConsoleApp.csproj": {
+    "C:\\Users\\PrathikSajjanKS\\Desktop\\training\\weeks\\week8\\MyConsoleAppSol\\MyConsoleApp\\MyConsoleApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\KFayazUddin\\MyLearnings\\MyConsoleAppSol\\MyConsoleApp\\MyConsoleApp.csproj",
+        "projectUniqueName": "C:\\Users\\PrathikSajjanKS\\Desktop\\training\\weeks\\week8\\MyConsoleAppSol\\MyConsoleApp\\MyConsoleApp.csproj",
         "projectName": "MyConsoleApp",
-        "projectPath": "C:\\Users\\KFayazUddin\\MyLearnings\\MyConsoleAppSol\\MyConsoleApp\\MyConsoleApp.csproj",
-        "packagesPath": "C:\\Users\\KFayazUddin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\KFayazUddin\\MyLearnings\\MyConsoleAppSol\\MyConsoleApp\\obj\\",
+        "projectPath": "C:\\Users\\PrathikSajjanKS\\Desktop\\training\\weeks\\week8\\MyConsoleAppSol\\MyConsoleApp\\MyConsoleApp.csproj",
+        "packagesPath": "C:\\Users\\PrathikSajjanKS\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\PrathikSajjanKS\\Desktop\\training\\weeks\\week8\\MyConsoleAppSol\\MyConsoleApp\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\KFayazUddin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\PrathikSajjanKS\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
