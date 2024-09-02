@@ -66,11 +66,7 @@ pipeline {
         }
     }
 
-    /*post {
-        always {
-            junit 'MyConsoleApp.Tests/TestResults/test_results.trx'
-        }
-    }*/
+    
 }
 
 
